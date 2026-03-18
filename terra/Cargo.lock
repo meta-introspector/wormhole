@@ -713,7 +713,6 @@ dependencies = [
 [[package]]
 name = "cw20-legacy"
 version = "0.2.0"
-source = "git+https://github.com/wormhole-foundation/cw20-legacy/?rev=d127247#d12724701ffb9920cb1fdf1eee49efdcc20048e5"
 dependencies = [
  "cosmwasm-std 1.1.0",
  "cosmwasm-storage",

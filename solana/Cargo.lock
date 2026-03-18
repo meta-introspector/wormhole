@@ -1850,7 +1850,6 @@ dependencies = [
 [[package]]
 name = "mpl-token-metadata"
 version = "0.0.1"
-source = "git+https://github.com/wormhole-foundation/metaplex-program-library?rev=a7ab32ab0defd89c98f205c80ebdaf77ed60152d#a7ab32ab0defd89c98f205c80ebdaf77ed60152d"
 dependencies = [
  "borsh",
  "num-derive",
@@ -3969,7 +3968,6 @@ dependencies = [
 [[package]]
 name = "spl-token"
 version = "3.3.0"
-source = "git+https://github.com/wormhole-foundation/spl-token.git?rev=7ae1b55#7ae1b553adb5889e57e7afb054e557ab7dd0d873"
 dependencies = [
  "arrayref",
  "num-derive",
